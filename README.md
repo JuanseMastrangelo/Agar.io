@@ -1,3 +1,6 @@
+
+![](https://img.shields.io/github/stars/JuanseMastrangelo/Agar.io)
+
 # Agar.io
 Agar.io en NodeJS con express | socketio
 
